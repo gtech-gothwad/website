@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 /* 2. PRELOADER                                   */
 /* ============================================== */
 
-function initPreloader() {
+/*function initPreloader() {
     const preloader = DOM.preloader;
     
     if (!preloader) return;
@@ -117,7 +117,9 @@ function initPreloader() {
             preloader.classList.add('loaded');
         }
     }, 5000);
-}
+}  
+
+*/
 
 /* ============================================== */
 /* 3. STICKY HEADER                               */
